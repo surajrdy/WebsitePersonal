@@ -1,0 +1,133 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+    background: url("personal website reall.svg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100%;
+      }
+.topnav {
+  background-color: #ffffff00;
+  overflow: hidden;
+	opacity: 1;
+}
+img {
+  width: 225px;
+  height: 300px;
+}
+
+.center {
+  display: block;
+  margin-left: 10px;
+  margin-right: auto;
+}
+button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+		color: #10294C;
+        padding: 35px 120px;
+        padding-right:0px;
+        padding-left:180px;
+		font-family: 'Share Tech Mono', monospace;
+		font-size: 23px;
+		font-weight: bold;
+}
+button:hover {
+	color: #fc3d21;
+}
+.start {
+  font-family: 'Share Tech Mono', monospace;
+  color: #10294C;
+  font-weight: bold;
+  padding: 80px 315px;
+  font-size: 30px
+  
+}
+.h{
+  padding-left: 400px;
+}
+.resume {
+  font-family: 'Share Tech Mono', monospace;
+  color: #10294C;
+  padding-left: 525px;
+  padding-top: -10px;
+  font-size: 25px
+  
+}
+.infoo {
+  font-family: 'Share Tech Mono', monospace;
+  color: #10294C;
+  font-size: 20px;
+  padding-left: 350px;
+  padding-right: 25px;
+  margin-top: -500px;
+  font-weight:bold;
+}
+.info {
+  font-family: 'Share Tech Mono', monospace;
+  color: #10294C;
+  font-size: 23px;
+  padding: 0px 320px;
+  font-weight: bold;
+}
+.blinking-cursor {
+  font-weight: 100;
+  font-size: 20px;
+  color: #fc3d21;
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: #fc3d21;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: #fc3d21;
+  }
+}
+
+@-webkit-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: #fc3d21;
+  }
+}
+
+@-ms-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: #fc3d21;
+  }
+}
+
+@-o-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: #fc3d21;
+  }
+}
