@@ -19,6 +19,25 @@ img {
   margin-left: 475px;
   margin-top: 0px;
 }
+.bl{
+  width: 300px;
+  height: 300px;
+  margin-left: -10px;
+  margin-right: auto;
+  margin-top: -200px;
+}
+.ro{
+  width: 200px;
+  height: 200px;
+  margin-left: 1100px;
+  margin-right: auto;
+  margin-top: -500px;
+}
+.ju{
+  margin-left: 1000px;
+  margin-right: auto;
+  margin-top: -500px;
+}
 .startt{
   font-family: 'Share Tech Mono', monospace;
   color: #ffffff;
